@@ -303,8 +303,8 @@
       required: true
       relationship: null
 - description: null
-  label: "Accolades"
-  name: "accolades"
+  label: "Accolades List"
+  name: "accolades_list"
   sort: 1
   listed: true
   hasRoute: false

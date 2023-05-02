@@ -1,0 +1,60 @@
+- id: "accoladesList_0"
+  web:
+    metaDescription: ""
+    metaTitle: ""
+    metaLinkText: ""
+    metaKeywords: null
+    pathPart: null
+    path: null
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+    parent: "/"
+  meta:
+    sort: null
+    listed: true
+  data:
+    image: "3-f894d62-jzlwnf"
+    image_alt_text: "Inc. 5000 2022"
+    link: "https://www.inc.com/profile/kin-insurance"
+- id: "accoladesList_1"
+  web:
+    metaDescription: ""
+    metaTitle: ""
+    metaLinkText: ""
+    metaKeywords: null
+    pathPart: null
+    path: null
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+    parent: "/"
+  meta:
+    sort: null
+    listed: true
+  data:
+    image: "3-f894cc0-9dwklg"
+    image_alt_text: "Built In Chicago homepage"
+    link: "https://www.builtinchicago.org/companies/best-midsize-places-to-work-chicago-2022"
+- id: "accoladesList_2"
+  web:
+    metaDescription: ""
+    metaTitle: ""
+    metaLinkText: ""
+    metaKeywords: null
+    pathPart: null
+    path: null
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+    parent: "/"
+  meta:
+    sort: null
+    listed: true
+  data:
+    image: "3-f894d68-6fhn6b"
+    image_alt_text: "The University of Chicago homepage"
+    link: "https://polsky.uchicago.edu/2020/08/13/kin-insurance-secures-second-investment-from-uchicago-startup-program/"
