@@ -1,0 +1,20 @@
+
+  - id: "0"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      heading: "The world has changed. Why hasn’t insurance?"
+      content: "Kin’s mission is to reimagine home insurance **For Every New Normal.** While other insurers struggle to handle a fast-changing world, Kin is built for the future and prepared to meet its challenges head on while helping our customers do the same.\n\nBecause of our technology and direct-to-consumer model, we provide affordable pricing without compromising coverage, even in areas most impacted by climate change.\n\nWe're fully licensed and our carriers, Kin Interinsurance Network and Kin Interinsurance Nexus Exchange, are both rated A, Exceptional, by Demotech, Inc., meaning we have the [financial strength](/about/financial-strength/) to help our customers through everyday claims and game-changing catastrophes."

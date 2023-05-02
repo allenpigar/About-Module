@@ -1,0 +1,22 @@
+
+  - id: "0"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      heading: "Want to join us?"
+      content: "At Kin, we value dreaming big, tackling challenges, being transparent, and working together to make a lasting impact on our industry. Come learn and grow with us."
+      button_text: "Explore Career Opportunities"
+      button_link: "/careers/"

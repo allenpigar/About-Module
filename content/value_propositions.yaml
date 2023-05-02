@@ -1,0 +1,64 @@
+
+  - id: "valuePropositions_0"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      image: "3-f894808-p0d806"
+      image_alt_text: null
+      heading: "Our technology simplifies everything."
+      content: "Customize your coverage in a few quick clicks and file claims instantly. Our 5-star team is ready to help."
+  - id: "valuePropositions_1"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      image: "3-f894808-mrncl3"
+      image_alt_text: null
+      heading: "We make affordable home insurance."
+      content: "We sell direct and use technology to keep costs low and pass savings on to you. Customers report saving over $700 on average."
+  - id: "valuePropositions_2"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      image: "3-f894808-wffx04"
+      image_alt_text: null
+      heading: "You’re part of the future of insurance."
+      content: "We’re a member-owned insurance company that’s customer-focused by design. Our interests are fully aligned, full stop."

@@ -1,0 +1,26 @@
+- id: "/about"
+  web:
+    metaDescription: "Kin is the direct-to-consumer home insurance company for every new normal."
+    metaTitle: "About Us"
+    metaKeywords: null
+    metaLinkText: "About"
+    pathPart: "about"
+    path: "/about/"
+    parent: "/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: "We are the direct-to-consumer home insurance company for every new normal"
+    header_text: "Hi, We’re Kin"
+    sub_header: "We're the home insurance company for every new normal."
+    featured_image: "3-f894808-rk8r1c"
+    is_feature_clipped: "0"
+    featured_image_alt: "A woman and a child looking at a tablet and smiling on their bed with fairy lights and a stuffed toy"
+    schemamarkup: null
+    show_banner: "0"
+    body: null

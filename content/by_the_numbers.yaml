@@ -1,0 +1,76 @@
+- id: "0"
+  web:
+    metaDescription: ""
+    metaTitle: ""
+    metaLinkText: ""
+    metaKeywords: null
+    pathPart: null
+    path: null
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+    parent: "/"
+  meta:
+    sort: null
+    listed: true
+  data:
+    heading: "$700"
+    content: "Average savings members reported when switching to Kin for between March 2022 and February 2023"
+- id: "0"
+  web:
+    metaDescription: ""
+    metaTitle: ""
+    metaLinkText: ""
+    metaKeywords: null
+    pathPart: null
+    path: null
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+    parent: "/"
+  meta:
+    sort: null
+    listed: true
+  data:
+    heading: "4.6"
+    content: "Out of 5 average customer service satisfaction"
+- id: "0"
+  web:
+    metaDescription: ""
+    metaTitle: ""
+    metaLinkText: ""
+    metaKeywords: null
+    pathPart: null
+    path: null
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+    parent: "/"
+  meta:
+    sort: null
+    listed: true
+  data:
+    heading: "80"
+    content: "Average Net Promoter Score compared to an industry average of 35"
+- id: "0"
+  web:
+    metaDescription: ""
+    metaTitle: ""
+    metaLinkText: ""
+    metaKeywords: null
+    pathPart: null
+    path: null
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+    parent: "/"
+  meta:
+    sort: null
+    listed: true
+  data:
+    heading: "+151K"
+    content: "Policies bound"

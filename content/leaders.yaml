@@ -1,0 +1,85 @@
+
+  - id: "leaders_0"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      image: "3-f894d8d-rzh3cn"
+      image_alt_text: "Sean Harper wearing a v-neck Kin shirt"
+      name: "Sean Harper"
+      position: "Co-Founder and Chief Executive Officer"
+  - id: "leaders_1"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      image: "3-f894d7b-lz4zjz"
+      image_alt_text: "Jerry Fadden in a black Kin t-shirt with his arms crossed"
+      name: "Jerry Fadden"
+      position: "Chief Finance Officer"
+  - id: "leaders_2"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      image: "3-f894d2e-t4z0q2"
+      image_alt_text: "Angel Conlin in a black Kin t-shirt"
+      name: "Angel Conlin"
+      position: "Chief Insurance & Compliance Officer"
+  - id: "leaders_3"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -2
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: null
+      listed: true
+    data:
+      image: "3-f894d86-986m13"
+      image_alt_text: "Portrait of Chief Legal Officer Jessica Jacob"
+      name: "Jessica Jacob"
+      position: "Chief Legal Officer"
