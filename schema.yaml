@@ -125,7 +125,7 @@
       relationship: null
 - description: null
   label: "By the Numbers"
-  name: "by_the_numbers"
+  name: "about_by_the_numbers"
   sort: 1
   listed: true
   hasRoute: false
