@@ -1,6 +1,6 @@
 - description: null
   label: "Site Banner"
-  name: "banner"
+  name: "about_banner"
   sort: 1
   listed: true
   hasRoute: false
@@ -69,7 +69,7 @@
       relationship: null
 - description: null
   label: "Value Propositions"
-  name: "value_propositions"
+  name: "about_value_propositions"
   sort: 1
   listed: true
   hasRoute: false
